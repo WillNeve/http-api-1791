@@ -1,1 +1,1 @@
-Code from lecture on introduction to HTTP and API's 
+Demo code from introductory lecture on HTTP and API's 
